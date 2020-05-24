@@ -16,7 +16,7 @@ const validate = (event, events) => {
 	let check = events.filter(
 		elem =>
 			startTime <=
-				+elem.endTime.slice(0, 2) + elem.endTime.slice(3, 5) * 0.01 &&
+			+elem.endTime.slice(0, 2) + elem.endTime.slice(3, 5) * 0.01 &&
 			endTime >= +elem.startTime.slice(0, 2) + elem.startTime.slice(3, 5) * 0.01
 	)
 

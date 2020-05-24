@@ -11,7 +11,7 @@ export const eventListRecived = eventsList => {
 }
 
 export const getEventsList = () => {
-	return function(dispatch) {
+	return function (dispatch) {
 		eventsGateway
 			.fetchEventList()
 			.then(data => dispatch(eventListRecived(data)))
@@ -19,7 +19,7 @@ export const getEventsList = () => {
 }
 
 export const createEvent = obj => {
-	return function(dispatch) {
+	return function (dispatch) {
 		eventsGateway.createEvent(obj).then(() => dispatch(getEventsList()))
 	}
 }
