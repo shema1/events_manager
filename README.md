@@ -26,6 +26,5 @@ For this project I have used the following technologies:
 * [Redux](https://redux.js.org/)
 * [Redux-thunk](https://www.npmjs.com/package/redux-thunk)
 * [Moment.js](https://momentjs.com/)
-* [qs](https://www.npmjs.com/package/qs)
 
 
