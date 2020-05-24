@@ -22,7 +22,6 @@ For this project I have used the following technologies:
 * [BEM methodology](https://en.bem.info/methodology/)
 * [JS ES6](https://ru.wikipedia.org/wiki/ECMAScript)
 * [ReactJS](https://reactjs.org/)
-* [React-router-dom](https://github.com/ReactTraining/react-router)
 * [Redux](https://redux.js.org/)
 * [Redux-thunk](https://www.npmjs.com/package/redux-thunk)
 * [Moment.js](https://momentjs.com/)
