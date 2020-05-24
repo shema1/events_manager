@@ -1,6 +1,6 @@
-# [Events calendar](https://shema1.github.io/events_calendar/build/index.html)
+# [Events manager](https://modest-ride-e9f047.netlify.app/)
 Implemented the ability for the user to select the date and reserve the event, after selecting the date shows the free hours
-[Link on project](https://shema1.github.io/events_calendar/build/index.html)
+[Link on project](https://modest-ride-e9f047.netlify.app/)
 
 
 # Getting Started:
