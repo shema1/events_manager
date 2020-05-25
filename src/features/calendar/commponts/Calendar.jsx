@@ -16,7 +16,6 @@ const Calendar = ({ events, getEvents }) => {
   const [selectDay, setSelectDay] = useState("");
   const [curentEvents, setCurentEvents] = useState([]);
   useEffect(() => {
-    // getEvents();
     filterEvent();
   }, [selectDay]);
 

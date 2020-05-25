@@ -76,12 +76,13 @@
 .schedule {
   width: 400px;
   height: 800px;
-  background-color: #fff;
+  background-color: #aeccc6;
   margin: 0 auto;
   padding: 0;
   overflow: scroll;
   overflow-x: hidden;
   position: relative;
+  border-radius: 15px;
 }
 
 .hour {
